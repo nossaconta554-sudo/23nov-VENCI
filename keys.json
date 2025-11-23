@@ -1,0 +1,46 @@
+{
+  "keys": {
+    "KEY-10S": {
+      "active": true,
+      "owner": "NINGUEM",
+      "validFor": "10s",
+      "firstLogin": null
+    },
+    "KEY-5M": {
+      "active": true,
+      "owner": "NINGUEM",
+      "validFor": "5m",
+      "firstLogin": null
+    },
+    "KEY-12H": {
+      "active": true,
+      "owner": "NINGUEM",
+      "validFor": "12h",
+      "firstLogin": null
+    },
+    "KEY-7D": {
+      "active": true,
+      "owner": "NINGUEM",
+      "validFor": "7d",
+      "firstLogin": null
+    },
+    "KEY-2MO": {
+      "active": true,
+      "owner": "NINGUEM",
+      "validFor": "2mo",
+      "firstLogin": null
+    },
+    "KEY-PERM-01": {
+      "active": true,
+      "owner": "NINGUEM",
+      "validFor": "perm",
+      "firstLogin": null
+    },
+    "KEY-DESATIVADA": {
+      "active": false,
+      "owner": "NINGUEM",
+      "validFor": "30d",
+      "firstLogin": null
+    }
+  }
+}
